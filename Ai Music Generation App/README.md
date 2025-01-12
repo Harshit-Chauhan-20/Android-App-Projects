@@ -49,9 +49,9 @@ Ensure you have the following installed:
 ## Install dependencies:
 
 - flutter pub get
-- ** Add your Hugging Face API key: **
+- **Add your Hugging Face API key:**
 
--- const String huggingFaceApiKey = "your_api_key_here";
+      -- const String huggingFaceApiKey = "your_api_key_here";
 
 ---
 
