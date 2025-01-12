@@ -63,4 +63,4 @@ For any queries or feedback, feel free to reach out:
 
 - Name: Harshit Chauhan
 - 📧 Email: charshit444@gmail.com
-- 🌐 LinkedIn: Harshit Chauhan
+- 🌐 LinkedIn: [Harshit Chauhan](https://www.linkedin.com/in/harshit-chauhan-961271202/)
