@@ -1,47 +1,4 @@
-# 🎵 Suno - AI Music Generator
 
-Welcome to **Suno**, the ultimate **AI-powered music generator**! 🌟 This Flutter-based app utilizes the powerful APIs from **Hugging Face** 🤗 to generate unique and stunning music tracks. Built with ❤️, Suno brings creativity and technology together for a truly innovative music experience. 🎶  
-
----
-
-## ✨ Features
-
-- 🎧 **AI-Powered Music Generation**  
-  Generate high-quality, unique music tracks using Hugging Face APIs.  
-
-- 📜 **Track History**  
-  View and manage a history of your generated music.  
-
-- 🛠️ **Customizable Music Parameters**  
-  Tailor your generated music by adjusting tempo, genre, and style.  
-
-- 🌐 **Seamless API Integration**  
-  Powered by Hugging Face’s advanced music generation models.  
-
-- 💾 **Download & Share**  
-  Save your favorite tracks locally or share them with friends.  
-
----
-
-## 🛠️ Technologies Used
-
-- **Framework**: Flutter 🐦  
-- **Language**: Dart  
-- **API Provider**: Hugging Face 🤗  
-- **IDE**: FlutLab - [https://flutlab.io](https://flutlab.io)  
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have the following installed:  
-- Flutter SDK: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)  
-- Hugging Face API Key: [https://huggingface.co/docs](https://huggingface.co/docs)  
-
-
-markdown
-Copy code
 # 🎵 Suno - AI Music Generator
 
 Welcome to **Suno**, the ultimate **AI-powered music generator**! 🌟 This Flutter-based app utilizes the powerful APIs from **Hugging Face** 🤗 to generate unique and stunning music tracks. Built with ❤️, Suno brings creativity and technology together for a truly innovative music experience. 🎶  
