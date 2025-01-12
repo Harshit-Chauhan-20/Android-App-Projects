@@ -65,6 +65,6 @@ Ensure you have the following installed:
 
  For any questions or suggestions, feel free to reach out:
  
--Name: Harshit Chauhan
--📧 Email: charshit444@gmail.com
--🌐 LinkedIn: Harshit Chauhan[https://www.linkedin.com/in/harshit-chauhan-961271202/]
+    Name: Harshit Chauhan
+    📧 Email: charshit444@gmail.com
+    🌐 LinkedIn: https://www.linkedin.com/in/harshit-chauhan-961271202
