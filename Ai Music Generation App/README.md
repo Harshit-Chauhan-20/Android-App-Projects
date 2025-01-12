@@ -88,20 +88,24 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/suno-music-app.git
    cd suno-music-app
-Install dependencies:
 
-flutter pub get
-Add your Hugging Face API key:
-Open the lib/constants.dart file and add your API key:
+## Install dependencies:
 
-- **dart**
+- flutter pub get
+- ** Add your Hugging Face API key: **
 
-const String huggingFaceApiKey = "your_api_key_here";
-- Run the app:
-flutter run
+-- const String huggingFaceApiKey = "your_api_key_here";
 
-##📞 Contact
+---
+
+- **Run the app:**
+    ```bash
+    flutter run
+
+---
+
+## 📞 Contact
 For any questions or suggestions, feel free to reach out:
 Name: Harshit Chauhan
 📧 Email: charshit444@gmail.com
-🌐 LinkedIn: (Harshit Chauhan)[https://www.linkedin.com/in/harshit-chauhan-961271202/]
+🌐 LinkedIn: Harshit Chauhan[https://www.linkedin.com/in/harshit-chauhan-961271202/]
