@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/body_container"
+    android:layout_height="match_parent"
+    tools:context=".main2">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/backgnd" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/water"
+        android:layout_width="265dp"
+        android:layout_height="221dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="410dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/ai" />
+
+    <Button
+        android:id="@+id/baba"
+        android:layout_width="171dp"
+        android:layout_height="42dp"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="213dp"
+        android:layout_marginTop="300dp"
+        android:layout_toEndOf="@+id/water"
+        android:background="@android:color/transparent"
+        android:text="Aneron"
+        android:textSize="20sp"/>
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="252dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="90dp"
+        android:text="Ask Medico" />
+
+    <ImageView
+        android:id="@+id/imageView54"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="66dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginBottom="190dp"
+        app:srcCompat="@drawable/border" />
+
+    <ImageView
+        android:id="@+id/imageView232"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/imageView"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="190dp"
+        app:srcCompat="@drawable/border" />
+
+    <ImageView
+        android:id="@+id/imageView254"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="267dp"
+        android:layout_toEndOf="@+id/imageView232"
+        app:srcCompat="@drawable/border" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="226dp"
+        android:layout_marginTop="267dp"
+        android:layout_toEndOf="@+id/imageView232"
+        app:srcCompat="@drawable/border" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="334dp"
+        android:text="Heart Rate" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="68dp"
+        android:layout_marginBottom="333dp"
+        android:text="Body Temperature" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="97dp"
+        android:layout_marginBottom="127dp"
+        android:text="BMI" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="95dp"
+        android:layout_marginBottom="128dp"
+        android:text="TextView" />
+
+
+</RelativeLayout>

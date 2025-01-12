@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17372547012",
+    "project_id": "gla-app-380323",
+    "storage_bucket": "gla-app-380323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17372547012:android:2262570292f57190390691",
+        "android_client_info": {
+          "package_name": "com.example.glaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17372547012-6s0nuafskei62brvbdc4l61vkl16prla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6291XInuO7rs4A9Lt5IR3X89pfBL_TwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17372547012-6s0nuafskei62brvbdc4l61vkl16prla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
